@@ -1,0 +1,10 @@
+# Directed graph: S-cerevisiae.txt
+# S. cerevisiae transcriptional regulation network
+# (edge from operon i to operon j means that i is regulated by a transcriptional factor encoded by j)
+# Edges are signed: 1 is positive (activation), 2 is negative (repression), 3 is both
+# Nodes: 690 Edges: 1094
+# FromNodeId ToNodeId Sign
+1 2 2
+2 3 1
+3 1 1
+2 1 1

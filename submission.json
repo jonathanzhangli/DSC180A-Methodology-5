@@ -1,0 +1,4 @@
+{
+    "dockerhub-id": "jonathanzhangli20/counting-motifs",
+    "build-script": "python run.py"
+}
